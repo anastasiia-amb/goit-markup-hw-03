@@ -216,7 +216,6 @@ button {
   text-align: center;
   text-transform: capitalize;
   color: #2e2f42;
-  margin-top: 120px;
   margin-bottom: 72px;
 }
 .team-list {
@@ -229,7 +228,6 @@ button {
   border-radius: 0 0 4px 4px;
 }
 .team-list-img {
-  margin-bottom: 32px;
   display: block;
 }
 .team-item-container {
@@ -251,7 +249,6 @@ button {
   letter-spacing: 0.02em;
   color: #434455;
   text-align: center;
-  margin-bottom: 32px;
 }
 /* #endregion our team */
 
@@ -266,7 +263,6 @@ button {
   text-align: center;
   text-transform: capitalize;
   color: #2e2f42;
-  margin-top: 120px;
   margin-bottom: 72px;
 }
 .portfolio-list {
@@ -283,7 +279,6 @@ button {
 }
 
 .portfolio-container-item {
-  display: flex;
   align-items: flex-start;
   justify-content: center;
   flex-direction: column;
@@ -347,6 +342,5 @@ button {
   letter-spacing: 0.02em;
   color: #f4f4fd;
   max-width: 264px;
-  margin-top: 16px;
 }
 /* #endregion footer */
